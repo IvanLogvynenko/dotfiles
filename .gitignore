@@ -6,3 +6,14 @@
 !.config/bspwm/
 !.config/bspwm/**
 
+!.config/sxhkd/
+!.config/sxhkd/**
+
+!.config/polybar/
+!.config/polybar/**
+
+!.config/wezterm/
+!.config/wezterm/**
+
+!.config/neofetch/
+!.config/neofetch/**
