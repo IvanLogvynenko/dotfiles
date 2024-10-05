@@ -1,0 +1,8 @@
+.config/*/
+
+!.config/nvim/
+!.config/nvim/**
+
+!.config/bspwm/
+!.config/bspwm/**
+
