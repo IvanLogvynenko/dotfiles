@@ -13,7 +13,7 @@ setopt hist_ignore_dups
 setopt hist_find_no_dups
 
 #UI
-neofetch
+fastfetch
 
 ZINIT_HOME=~/.local/share/zinit
 if [ ! -d "$ZINIT_HOME" ]; then
